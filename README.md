@@ -26,6 +26,12 @@
 @import url('https://cdn.jsdelivr.net/gh/loof2736/scyfin@latest/CSS/disable-static-drawer.css');
 ```
 
+### Disable backdrops on navigation pages
+This will disable backdrops on every page except the media details. Backdrops must be enabled in the client settings
+```
+@import url('https://cdn.jsdelivr.net/gh/loof2736/scyfin@latest/CSS/disable-static-drawer.css');
+```
+
 ---
 
 ### **Themes:**
